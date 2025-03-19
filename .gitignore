@@ -1,0 +1,17 @@
+.env
+bin/
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.log
+
+# Dependency directories
+deps
